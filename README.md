@@ -1,7 +1,7 @@
 # 🕹️ Pong (1972)
 
 O **Pong** é um dos primeiros jogos eletrônicos da história, desenvolvido pela **Atari** e lançado em **1972**.  
-Este projeto é uma **recriação** do clássico jogo de tênis de mesa!.
+Este projeto é uma **recriação** do clássico jogo de tênis de mesa!
 
 ---
 
@@ -29,4 +29,5 @@ O principal objetivo deste projeto é **recriar o jogo Pong** como forma de pass
 3. Use as teclas:
    - **W / S** → mover a raquete esquerda para cima/baixo  
    - **↑ / ↓** → mover a raquete direita para cima/baixo  
-4. Evite que a bola ultrapasse sua raquete — cada ponto perdido é marcado pelo adversário!  
+                     OU
+Acesse o link: https://ry4ndi4s.github.io/Ping-Pong-em-JS/
