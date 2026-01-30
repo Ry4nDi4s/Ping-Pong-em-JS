@@ -29,7 +29,7 @@ O principal objetivo deste projeto é **recriar o jogo Pong** como forma de pass
 3. Use as teclas:
    - **W / S** → mover a raquete esquerda para cima/baixo  
    - **↑ / ↓** → mover a raquete direita para cima/baixo
-   
-                     OU
+
+   OU
 
 Acesse o link: https://ry4ndi4s.github.io/Ping-Pong-em-JS/
