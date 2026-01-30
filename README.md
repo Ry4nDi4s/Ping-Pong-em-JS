@@ -28,6 +28,8 @@ O principal objetivo deste projeto é **recriar o jogo Pong** como forma de pass
 2. Abra o arquivo `index.html` em seu navegador.  
 3. Use as teclas:
    - **W / S** → mover a raquete esquerda para cima/baixo  
-   - **↑ / ↓** → mover a raquete direita para cima/baixo  
+   - **↑ / ↓** → mover a raquete direita para cima/baixo
+   
                      OU
+
 Acesse o link: https://ry4ndi4s.github.io/Ping-Pong-em-JS/
